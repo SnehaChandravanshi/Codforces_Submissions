@@ -6,15 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [math](#math) (1)
+- [math](#math) (2)
 - [number theory](#number-theory) (1)
+- [sortings](#sortings) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -28,6 +30,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1374D | [Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1374/D%20-%20Zero%20Remainder%20Array/solution.py) |
 | 1409C | [Yet Another Array Restoration](https://codeforces.com/contest/1409/problem/C) | 1200 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1409/C%20-%20Yet%20Another%20Array%20Restoration/solution.py) |
 
 ### number theory
@@ -35,6 +38,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1409C | [Yet Another Array Restoration](https://codeforces.com/contest/1409/problem/C) | 1200 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1409/C%20-%20Yet%20Another%20Array%20Restoration/solution.py) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1374D | [Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1374/D%20-%20Zero%20Remainder%20Array/solution.py) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1374D | [Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1374/D%20-%20Zero%20Remainder%20Array/solution.py) |
 
 ---
 
