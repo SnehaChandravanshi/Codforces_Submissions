@@ -6,13 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 5 |
+| 3 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
+- [games](#games) (1)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
@@ -25,6 +28,24 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1409C | [Yet Another Array Restoration](https://codeforces.com/contest/1409/problem/C) | 1200 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1409/C%20-%20Yet%20Another%20Array%20Restoration/solution.py) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1365A | [Matrix Game](https://codeforces.com/contest/1365/problem/A) | 1100 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/A%20-%20Matrix%20Game/solution.py) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1365A | [Matrix Game](https://codeforces.com/contest/1365/problem/A) | 1100 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/A%20-%20Matrix%20Game/solution.py) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1365A | [Matrix Game](https://codeforces.com/contest/1365/problem/A) | 1100 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/A%20-%20Matrix%20Game/solution.py) |
 
 ### math
 
