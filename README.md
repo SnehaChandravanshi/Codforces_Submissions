@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 11 |
+| 5 | 12 |
 
 ---
 
@@ -15,13 +15,14 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (2)
 - [data structures](#data-structures) (1)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [games](#games) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
+- [strings](#strings) (1)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -50,6 +51,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 466C | [Number of Ways](https://codeforces.com/contest/466/problem/C) | 1700 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/466/C%20-%20Number%20of%20Ways/solution.py) |
+| 706C | [Hard problem](https://codeforces.com/contest/706/problem/C) | 1600 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/706/C%20-%20Hard%20problem/solution.py) |
 
 ### games
 
@@ -87,6 +89,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1374D | [Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1374/D%20-%20Zero%20Remainder%20Array/solution.py) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 706C | [Hard problem](https://codeforces.com/contest/706/problem/C) | 1600 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/706/C%20-%20Hard%20problem/solution.py) |
 
 ### two pointers
 
