@@ -6,24 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 17 |
+| 14 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (5)
+- [dp](#dp) (6)
 - [dsu](#dsu) (1)
 - [games](#games) (1)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (4)
-- [math](#math) (4)
+- [math](#math) (5)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
@@ -43,6 +43,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 466C | [Number of Ways](https://codeforces.com/contest/466/problem/C) | 1700 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/466/C%20-%20Number%20of%20Ways/solution.py) |
+| 550C | [Divisibility by Eight](https://codeforces.com/contest/550/problem/C) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/550/C%20-%20Divisibility%20by%20Eight/solution.py) |
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1343/A%20-%20Candies/solution.py) |
 | 1409C | [Yet Another Array Restoration](https://codeforces.com/contest/1409/problem/C) | 1200 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1409/C%20-%20Yet%20Another%20Array%20Restoration/solution.py) |
 
@@ -72,6 +73,7 @@
 | 431C | [k-Tree](https://codeforces.com/contest/431/problem/C) | 1600 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/431/C%20-%20k-Tree/solution.py) |
 | 466C | [Number of Ways](https://codeforces.com/contest/466/problem/C) | 1700 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/466/C%20-%20Number%20of%20Ways/solution.py) |
 | 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/545/C%20-%20Woodcutters/solution.py) |
+| 550C | [Divisibility by Eight](https://codeforces.com/contest/550/problem/C) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/550/C%20-%20Divisibility%20by%20Eight/solution.py) |
 | 706C | [Hard problem](https://codeforces.com/contest/706/problem/C) | 1600 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/706/C%20-%20Hard%20problem/solution.py) |
 | 1472C | [Long Jumps](https://codeforces.com/contest/1472/problem/C) | 1100 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1472/C%20-%20Long%20Jumps/solution.py) |
 
@@ -114,6 +116,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 550C | [Divisibility by Eight](https://codeforces.com/contest/550/problem/C) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/550/C%20-%20Divisibility%20by%20Eight/solution.py) |
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1343/A%20-%20Candies/solution.py) |
 | 1374D | [Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1374/D%20-%20Zero%20Remainder%20Array/solution.py) |
 | 1409C | [Yet Another Array Restoration](https://codeforces.com/contest/1409/problem/C) | 1200 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1409/C%20-%20Yet%20Another%20Array%20Restoration/solution.py) |
