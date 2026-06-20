@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 17 |
+| 21 | 17 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (8)
+- [dp](#dp) (9)
 - [dsu](#dsu) (1)
 - [games](#games) (1)
 - [graphs](#graphs) (2)
@@ -82,6 +82,7 @@
 | 550C | [Divisibility by Eight](https://codeforces.com/contest/550/problem/C) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/550/C%20-%20Divisibility%20by%20Eight/solution.py) |
 | 602B | [Approximating a Constant Range](https://codeforces.com/contest/602/problem/B) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/602/B%20-%20Approximating%20a%20Constant%20Range/solution.py) |
 | 706C | [Hard problem](https://codeforces.com/contest/706/problem/C) | 1600 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/706/C%20-%20Hard%20problem/solution.py) |
+| 1195C | [Basketball Exercise](https://codeforces.com/contest/1195/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1195/C%20-%20Basketball%20Exercise/solution.py) |
 | 1472C | [Long Jumps](https://codeforces.com/contest/1472/problem/C) | 1100 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1472/C%20-%20Long%20Jumps/solution.py) |
 
 ### dsu
