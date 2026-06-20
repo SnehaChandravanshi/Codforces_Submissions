@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 17 |
+| 19 | 17 |
 
 ---
 
@@ -14,15 +14,15 @@
 
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (1)
-- [data structures](#data-structures) (2)
+- [constructive algorithms](#constructive-algorithms) (2)
+- [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (8)
 - [dsu](#dsu) (1)
 - [games](#games) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (4)
-- [implementation](#implementation) (6)
+- [greedy](#greedy) (5)
+- [implementation](#implementation) (7)
 - [math](#math) (6)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
@@ -52,12 +52,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1365B | [Trouble Sort](https://codeforces.com/contest/1365/problem/B) | 1300 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/B%20-%20Trouble%20Sort/solution.py) |
+| 1365C | [Rotation Matching](https://codeforces.com/contest/1365/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/C%20-%20Rotation%20Matching/solution.py) |
 
 ### data structures
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 466C | [Number of Ways](https://codeforces.com/contest/466/problem/C) | 1700 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/466/C%20-%20Number%20of%20Ways/solution.py) |
+| 1365C | [Rotation Matching](https://codeforces.com/contest/1365/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/C%20-%20Rotation%20Matching/solution.py) |
 | 1374E1 | [Reading Books (easy version)](https://codeforces.com/contest/1374/problem/E1) | 1600 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1374/E1%20-%20Reading%20Books%20(easy%20version)/solution.py) |
 
 ### dfs and similar
@@ -105,6 +107,7 @@
 |---|---------|------------|----------|
 | 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/545/C%20-%20Woodcutters/solution.py) |
 | 1365A | [Matrix Game](https://codeforces.com/contest/1365/problem/A) | 1100 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/A%20-%20Matrix%20Game/solution.py) |
+| 1365C | [Rotation Matching](https://codeforces.com/contest/1365/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/C%20-%20Rotation%20Matching/solution.py) |
 | 1374E1 | [Reading Books (easy version)](https://codeforces.com/contest/1374/problem/E1) | 1600 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1374/E1%20-%20Reading%20Books%20(easy%20version)/solution.py) |
 | 1409D | [Decrease the Sum of Digits](https://codeforces.com/contest/1409/problem/D) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1409/D%20-%20Decrease%20the%20Sum%20of%20Digits/solution.py) |
 
@@ -118,6 +121,7 @@
 | 602B | [Approximating a Constant Range](https://codeforces.com/contest/602/problem/B) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/602/B%20-%20Approximating%20a%20Constant%20Range/solution.py) |
 | 1365A | [Matrix Game](https://codeforces.com/contest/1365/problem/A) | 1100 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/A%20-%20Matrix%20Game/solution.py) |
 | 1365B | [Trouble Sort](https://codeforces.com/contest/1365/problem/B) | 1300 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/B%20-%20Trouble%20Sort/solution.py) |
+| 1365C | [Rotation Matching](https://codeforces.com/contest/1365/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/C%20-%20Rotation%20Matching/solution.py) |
 
 ### math
 
