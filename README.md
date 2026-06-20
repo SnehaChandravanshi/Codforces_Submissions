@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 17 |
+| 18 | 17 |
 
 ---
 
@@ -17,18 +17,18 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (7)
+- [dp](#dp) (8)
 - [dsu](#dsu) (1)
 - [games](#games) (1)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (5)
+- [implementation](#implementation) (6)
 - [math](#math) (6)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (3)
+- [two pointers](#two-pointers) (4)
 
 ---
 
@@ -71,6 +71,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 279C | [Ladder](https://codeforces.com/contest/279/problem/C) | 1700 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/279/C%20-%20Ladder/solution.py) |
 | 431C | [k-Tree](https://codeforces.com/contest/431/problem/C) | 1600 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/431/C%20-%20k-Tree/solution.py) |
 | 466C | [Number of Ways](https://codeforces.com/contest/466/problem/C) | 1700 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/466/C%20-%20Number%20of%20Ways/solution.py) |
 | 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/545/C%20-%20Woodcutters/solution.py) |
@@ -111,6 +112,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 279C | [Ladder](https://codeforces.com/contest/279/problem/C) | 1700 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/279/C%20-%20Ladder/solution.py) |
 | 431C | [k-Tree](https://codeforces.com/contest/431/problem/C) | 1600 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/431/C%20-%20k-Tree/solution.py) |
 | 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.py) |
 | 602B | [Approximating a Constant Range](https://codeforces.com/contest/602/problem/B) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/602/B%20-%20Approximating%20a%20Constant%20Range/solution.py) |
@@ -158,6 +160,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 279C | [Ladder](https://codeforces.com/contest/279/problem/C) | 1700 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/279/C%20-%20Ladder/solution.py) |
 | 466C | [Number of Ways](https://codeforces.com/contest/466/problem/C) | 1700 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/466/C%20-%20Number%20of%20Ways/solution.py) |
 | 602B | [Approximating a Constant Range](https://codeforces.com/contest/602/problem/B) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/602/B%20-%20Approximating%20a%20Constant%20Range/solution.py) |
 | 1374D | [Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1374/D%20-%20Zero%20Remainder%20Array/solution.py) |
