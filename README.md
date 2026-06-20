@@ -6,22 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 17 |
+| 22 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (5)
+- [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (2)
-- [data structures](#data-structures) (4)
+- [data structures](#data-structures) (5)
 - [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (9)
+- [dp](#dp) (10)
 - [dsu](#dsu) (1)
 - [games](#games) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [implementation](#implementation) (7)
 - [math](#math) (6)
 - [number theory](#number-theory) (2)
@@ -46,6 +46,7 @@
 | 550C | [Divisibility by Eight](https://codeforces.com/contest/550/problem/C) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/550/C%20-%20Divisibility%20by%20Eight/solution.py) |
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1343/A%20-%20Candies/solution.py) |
 | 1409C | [Yet Another Array Restoration](https://codeforces.com/contest/1409/problem/C) | 1200 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1409/C%20-%20Yet%20Another%20Array%20Restoration/solution.py) |
+| 1526C1 | [Potions (Easy Version)](https://codeforces.com/contest/1526/problem/C1) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1526/C1%20-%20Potions%20(Easy%20Version)/solution.py) |
 | 1582C | [Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C) | 1200 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1582/C%20-%20Grandma%20Capa%20Knits%20a%20Scarf/solution.py) |
 
 ### constructive algorithms
@@ -62,6 +63,7 @@
 | 466C | [Number of Ways](https://codeforces.com/contest/466/problem/C) | 1700 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/466/C%20-%20Number%20of%20Ways/solution.py) |
 | 1365C | [Rotation Matching](https://codeforces.com/contest/1365/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/C%20-%20Rotation%20Matching/solution.py) |
 | 1374E1 | [Reading Books (easy version)](https://codeforces.com/contest/1374/problem/E1) | 1600 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1374/E1%20-%20Reading%20Books%20(easy%20version)/solution.py) |
+| 1526C1 | [Potions (Easy Version)](https://codeforces.com/contest/1526/problem/C1) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1526/C1%20-%20Potions%20(Easy%20Version)/solution.py) |
 | 1582C | [Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C) | 1200 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1582/C%20-%20Grandma%20Capa%20Knits%20a%20Scarf/solution.py) |
 
 ### dfs and similar
@@ -84,6 +86,7 @@
 | 706C | [Hard problem](https://codeforces.com/contest/706/problem/C) | 1600 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/706/C%20-%20Hard%20problem/solution.py) |
 | 1195C | [Basketball Exercise](https://codeforces.com/contest/1195/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1195/C%20-%20Basketball%20Exercise/solution.py) |
 | 1472C | [Long Jumps](https://codeforces.com/contest/1472/problem/C) | 1100 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1472/C%20-%20Long%20Jumps/solution.py) |
+| 1526C1 | [Potions (Easy Version)](https://codeforces.com/contest/1526/problem/C1) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1526/C1%20-%20Potions%20(Easy%20Version)/solution.py) |
 
 ### dsu
 
@@ -113,6 +116,7 @@
 | 1365C | [Rotation Matching](https://codeforces.com/contest/1365/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/C%20-%20Rotation%20Matching/solution.py) |
 | 1374E1 | [Reading Books (easy version)](https://codeforces.com/contest/1374/problem/E1) | 1600 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1374/E1%20-%20Reading%20Books%20(easy%20version)/solution.py) |
 | 1409D | [Decrease the Sum of Digits](https://codeforces.com/contest/1409/problem/D) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1409/D%20-%20Decrease%20the%20Sum%20of%20Digits/solution.py) |
+| 1526C1 | [Potions (Easy Version)](https://codeforces.com/contest/1526/problem/C1) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1526/C1%20-%20Potions%20(Easy%20Version)/solution.py) |
 | 1582C | [Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C) | 1200 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1582/C%20-%20Grandma%20Capa%20Knits%20a%20Scarf/solution.py) |
 
 ### implementation
