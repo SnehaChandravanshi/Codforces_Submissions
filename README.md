@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 17 |
+| 24 | 17 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (5)
 - [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (11)
+- [dp](#dp) (12)
 - [dsu](#dsu) (1)
 - [games](#games) (1)
 - [graphs](#graphs) (2)
@@ -81,6 +81,7 @@
 | 279C | [Ladder](https://codeforces.com/contest/279/problem/C) | 1700 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/279/C%20-%20Ladder/solution.py) |
 | 431C | [k-Tree](https://codeforces.com/contest/431/problem/C) | 1600 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/431/C%20-%20k-Tree/solution.py) |
 | 466C | [Number of Ways](https://codeforces.com/contest/466/problem/C) | 1700 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/466/C%20-%20Number%20of%20Ways/solution.py) |
+| 474D | [Flowers](https://codeforces.com/contest/474/problem/D) | 1700 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/474/D%20-%20Flowers/solution.py) |
 | 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/545/C%20-%20Woodcutters/solution.py) |
 | 550C | [Divisibility by Eight](https://codeforces.com/contest/550/problem/C) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/550/C%20-%20Divisibility%20by%20Eight/solution.py) |
 | 602B | [Approximating a Constant Range](https://codeforces.com/contest/602/problem/B) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/602/B%20-%20Approximating%20a%20Constant%20Range/solution.py) |
