@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 18 |
+| 26 | 18 |
 
 ---
 
@@ -18,13 +18,13 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (5)
 - [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (13)
+- [dp](#dp) (14)
 - [dsu](#dsu) (1)
 - [games](#games) (1)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (8)
-- [math](#math) (6)
+- [implementation](#implementation) (9)
+- [math](#math) (7)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
 - [strings](#strings) (2)
@@ -97,6 +97,7 @@
 | 1195C | [Basketball Exercise](https://codeforces.com/contest/1195/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1195/C%20-%20Basketball%20Exercise/solution.py) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.py) |
 | 1472C | [Long Jumps](https://codeforces.com/contest/1472/problem/C) | 1100 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1472/C%20-%20Long%20Jumps/solution.py) |
+| 1485B | [Replace and Keep Sorted](https://codeforces.com/contest/1485/problem/B) | 1200 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1485/B%20-%20Replace%20and%20Keep%20Sorted/solution.py) |
 | 1516B | [AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1516/B%20-%20AGAGA%20XOOORRR/solution.py) |
 | 1526C1 | [Potions (Easy Version)](https://codeforces.com/contest/1526/problem/C1) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1526/C1%20-%20Potions%20(Easy%20Version)/solution.py) |
 
@@ -145,6 +146,7 @@
 | 1365B | [Trouble Sort](https://codeforces.com/contest/1365/problem/B) | 1300 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/B%20-%20Trouble%20Sort/solution.py) |
 | 1365C | [Rotation Matching](https://codeforces.com/contest/1365/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/C%20-%20Rotation%20Matching/solution.py) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.py) |
+| 1485B | [Replace and Keep Sorted](https://codeforces.com/contest/1485/problem/B) | 1200 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1485/B%20-%20Replace%20and%20Keep%20Sorted/solution.py) |
 
 ### math
 
@@ -156,6 +158,7 @@
 | 1409C | [Yet Another Array Restoration](https://codeforces.com/contest/1409/problem/C) | 1200 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1409/C%20-%20Yet%20Another%20Array%20Restoration/solution.py) |
 | 1409D | [Decrease the Sum of Digits](https://codeforces.com/contest/1409/problem/D) | 1500 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1409/D%20-%20Decrease%20the%20Sum%20of%20Digits/solution.py) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.py) |
+| 1485B | [Replace and Keep Sorted](https://codeforces.com/contest/1485/problem/B) | 1200 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1485/B%20-%20Replace%20and%20Keep%20Sorted/solution.py) |
 
 ### number theory
 
