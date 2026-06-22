@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 19 |
+| 29 | 19 |
 
 ---
 
@@ -24,10 +24,10 @@
 - [games](#games) (1)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (11)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (7)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (2)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (5)
@@ -155,6 +155,7 @@
 | 431C | [k-Tree](https://codeforces.com/contest/431/problem/C) | 1600 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/431/C%20-%20k-Tree/solution.py) |
 | 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.py) |
 | 602B | [Approximating a Constant Range](https://codeforces.com/contest/602/problem/B) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/602/B%20-%20Approximating%20a%20Constant%20Range/solution.py) |
+| 988C | [Equal Sums](https://codeforces.com/contest/988/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/988/C%20-%20Equal%20Sums/solution.py) |
 | 1365A | [Matrix Game](https://codeforces.com/contest/1365/problem/A) | 1100 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/A%20-%20Matrix%20Game/solution.py) |
 | 1365B | [Trouble Sort](https://codeforces.com/contest/1365/problem/B) | 1300 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/B%20-%20Trouble%20Sort/solution.py) |
 | 1365C | [Rotation Matching](https://codeforces.com/contest/1365/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1365/C%20-%20Rotation%20Matching/solution.py) |
@@ -185,6 +186,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 988C | [Equal Sums](https://codeforces.com/contest/988/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/988/C%20-%20Equal%20Sums/solution.py) |
 | 1374D | [Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1374/D%20-%20Zero%20Remainder%20Array/solution.py) |
 | 1374E1 | [Reading Books (easy version)](https://codeforces.com/contest/1374/problem/E1) | 1600 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1374/E1%20-%20Reading%20Books%20(easy%20version)/solution.py) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [Python 3](https://github.com/SnehaChandravanshi/Codforces_Submissions/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.py) |
